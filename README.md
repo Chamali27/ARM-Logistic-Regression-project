@@ -154,9 +154,9 @@ This project uses two datasets:
 ## Authors / Group Members
 
 - Chamali Abeysekara  
-- Rajintha Hewanayaka
-- Hussein Ziyard
-- Nasir Mohomaed
+- RL Hewanayaka
+- MZM Hussein
+- MN Mohamed
 
 ---
 
